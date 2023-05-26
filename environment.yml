@@ -1,0 +1,13 @@
+name: lrep
+channels:
+  - conda-forge
+dependencies:
+  - openmm
+  - mdtraj
+  - nglview
+  - matplotlib
+  - jupyterlab
+  - tqdm
+  - ca-certificates
+  - certifi
+  - openssl
