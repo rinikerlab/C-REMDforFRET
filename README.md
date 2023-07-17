@@ -2,7 +2,7 @@
 
 ## Publications
 
-Metternich JB, Katzberger P, et al. Influence of the fluorophore mobility on distance measurements by gas phase FRET. ChemRxiv. Cambridge: Cambridge Open Engage; 2023, DOI: [https://doi.org/10.26434/chemrxiv-2023-fcnwg](https://doi.org/10.26434/chemrxiv-2023-fcnwg)
+J. Phys. Chem. A 2023, 127, 27, 5620–5628 DOI: [https://doi.org/10.1021/acs.jpca.3c01509](https://doi.org/10.1021/acs.jpca.3c01509)
 
 ## Abstract
 
@@ -20,7 +20,7 @@ mamba env create --file environment.yml
 ## Analysis
 
 ### Get data
-The simulation data is provided upon reasonable request by the corresponding authors.
+The starting structures and topologies are available online in a curated data archive at ETH Zurich (DOI: [10.3929/ethz-b-000600522](https://doi.org/10.3929/ethz-b-000600522)). The simulation data is provided upon reasonable request by the corresponding authors.
 
 ### Perform analysis
 
