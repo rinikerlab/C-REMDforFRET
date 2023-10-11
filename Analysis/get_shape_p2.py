@@ -10,7 +10,6 @@ import pandas as pd
 parser = argparse.ArgumentParser(description='Run ML MM')
 parser.add_argument('-in','--infile',type=str,help='Infile')
 parser.add_argument('-out','--outfile',type=str,help='Outfile')
-#parser.add_argument('-l','--linker',type=str,help='Linkername')
 args = parser.parse_args()
 
 assert os.path.isfile(args.infile)
