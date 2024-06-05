@@ -4,7 +4,7 @@
 
 [p1] J. Phys. Chem. A 2023, 127, 27, 5620–5628 DOI: [https://doi.org/10.1021/acs.jpca.3c01509](https://doi.org/10.1021/acs.jpca.3c01509)
 
-[p2] Benzenberg LR, Katzberger P, et al. Probing the stability of a β-hairpin scaffold after desolvation. ChemRxiv. Cambridge: Cambridge Open Engage; 2023, DOI: TBD
+[p2] J. Phys. Chem. Lett. 2024, 15, 19, 5041–5046, DOI: [https://doi.org/10.1021/acs.jpclett.4c00920](https://doi.org/10.1021/acs.jpclett.4c00920)
 
 ## Abstracts
 
